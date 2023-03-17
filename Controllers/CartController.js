@@ -188,9 +188,6 @@ async function deleteCart(paramsData) {
     }
 }
 
-
-
-
 // //delete Items
 // async function deleteItem(payloadData) {
 //     try {
